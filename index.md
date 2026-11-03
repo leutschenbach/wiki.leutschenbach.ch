@@ -13,5 +13,6 @@ Hier sammeln wir praktische Informationen, Anleitungen und wichtige Kontakte fü
 ## Themen
 
 - [Gemeinschaftshaus](gemeinschaftshaus/)
+- [Wohnungsausstattung](wohnungsausstattung/)
 
 Weitere Inhalte folgen nach und nach.
